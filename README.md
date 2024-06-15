@@ -22,8 +22,7 @@ To set up this project, follow the steps below:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/news-application.git
-   cd news-application
+   git clone https://github.com/roni836/NewsBlog
 
 2. **Install PHP dependencies:**
 
